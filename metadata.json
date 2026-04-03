@@ -1,0 +1,5 @@
+{
+  "name": "Enestify",
+  "description": "A modern desktop music player using YouTube IFrame API, synchronized lyrics, and Discord RPC.",
+  "requestFramePermissions": []
+}
